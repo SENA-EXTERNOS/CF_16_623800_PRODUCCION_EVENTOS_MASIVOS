@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-6
-        .bloque-texto-b.bloque-texto-recuadro2.p-4.mt-3.bloque-texto-width1
+        .bloque-texto-b.bloque-texto-recuadro3.p-4.mt-3.bloque-texto-width1
           .bloque-texto-b__texto
             p Recordemos que el plan de emergencias es el documento que llena requisitos legales, el cual debe ser documentado acorde a las condiciones específicas. Todos los planes de atención y gestión de desastres en su estructura son los mismos, pero la información contenida debe ser acorde a las condiciones en las que se ejecutará el evento, debe dar claridad en los procedimientos operativos normalizados, así como en los recursos que se requieren para la atención del suceso. Teniendo en cuenta la complejidad y los diferentes aspectos que recopila este documento, se debe evaluar su aplicación, adherencia y conocimiento; para ello, se aplica la evaluación de los planes de emergencia.  En el siguiente video se amplía la información sobre la definición de evaluación, sus componentes, listas de chequeo, criterios de evaluación y metodología.
 
@@ -128,7 +128,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img5.png')})`}"
         )
         .bloque-texto-g__texto.p-4.bloque-texto-g__texto2
-          p.mb-0 La empresa de eventos ‘Fiestas y animaciones’ es la responsable de organizar el evento de fin de año para los trabajadores en una empresa donde asistirán aproximadamente 600 personas. Para esta actividad, la empresa contratante solicitó a ‘Fiestas y animaciones’ enviar el protocolo para la atención de emergencias; la persona encargada de verificar el cumplimiento de los requisitos mínimos para emergencias detecta que no se inventariaron los recursos, y que tampoco se determina la cadena de llamadas, ni el protocolo de activación del plan de contingencia. Teniendo en cuenta los hallazgos identificados, la empresa de eventos y fiestas procede a convocar a su equipo de trabajo e inicia la construcción de su plan de mejora; el encargado de seguridad y salud en el trabajo propone que se ejecute de la siguiente manera: 
+          p.mb-0 Es importante recordar que a partir de la evaluación del plan de emergencias y contingencias se deben documentar las acciones de mejora, siendo estas construidas con la participación de las personas que intervienen en la actividad; así mismo, que estas sean socializadas a las partes afectadas por el proceso, que sean acordes a los hallazgos y que puedan ser implementadas de manera oportuna.
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-4
@@ -136,7 +136,7 @@
           img(src='@/assets/curso/temas/tema3/img6.svg', alt='Texto que describa la imagen')
 
       .col-lg-8
-        p En conclusión, con la evaluación de los planes de emergencia, aplicando las herramientas vistas, como autoevaluación, simulacros, listas de verificación, entre otros, y definiendo unos criterios acordes y justificables a la necesidad de la organización, esta se convierte en la mejor herramienta para optimizar los recursos, mejorar la capacidad de respuesta y conocer a tiempo acciones que mitiguen el riesgo para la organización en el desarrollo de las actividades económicas.
+        p.mt-3 En conclusión, con la evaluación de los planes de emergencia, aplicando las herramientas vistas, como autoevaluación, simulacros, listas de verificación, entre otros, y definiendo unos criterios acordes y justificables a la necesidad de la organización, esta se convierte en la mejor herramienta para optimizar los recursos, mejorar la capacidad de respuesta y conocer a tiempo acciones que mitiguen el riesgo para la organización en el desarrollo de las actividades económicas.
 
         .bloque-texto-b.bloque-texto-recuadro.p-4.mt-3.bloque-texto-width1
           .bloque-texto-b__texto

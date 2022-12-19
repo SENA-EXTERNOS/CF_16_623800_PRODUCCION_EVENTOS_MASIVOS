@@ -20,6 +20,9 @@
           .bloque-texto-b__texto
             p Para el caso de los permisos en el desarrollo de eventos masivos, todos los documentos presentados ante los entes reguladores deberán ser validados por ellos, por lo tanto, una devolución parcial de documentación será causal para dar inicio a un proceso de mejora; por otra parte, con las implicaciones que conlleva aglomerar personas, es de gran relevancia para el organizador desarrollar procesos de auditoría interna que permita identificar oportunamente falencias, y así mismo, iniciar los planes de mejora.
 
+    .row.mt-5
+      p Partiendo de la idea de que el riesgo cero no existe, es necesario buscar estrategias que permitan tener un control de las amenazas que se pueden materializar, para ello se establecen los planes y acciones de mejora. 
+
     separador
 
     #t_2_1
@@ -131,7 +134,7 @@
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema2/img10.svg', alt='Texto que describa la imagen')
 
-      .col-lg-8
+      .col-lg-8.mt-3
         p Las acciones de mejora para el caso de los eventos surgen de procesos de auditoría, cuando se evidencian falencias en un proceso o cambios en las condiciones o lugar en el que se va a desarrollar, y se subdividen en dos tipos:
 
         ul.lista-ul--color

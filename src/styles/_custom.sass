@@ -7,8 +7,8 @@
     width: 75%
   &-2
     position: absolute
-    top: 2%
-    right: 30%
+    top: 8%
+    right: 33%
 
   &-3
     animation: float1 2.8s ease-in-out infinite alternate
@@ -303,12 +303,28 @@
     width: 50px
     height: 50px
 
+@media screen and ( max-width: 500px )
+  .img-infografica.color-primario .img-infografica__item__dot:before, .img-infografica.color-primario .img-infografica__item__dot:after, .img-infografica.color-primario .img-infografica-b__item__dot:before, .img-infografica.color-primario .img-infografica-b__item__dot:after, .img-infografica-b.color-primario .img-infografica__item__dot:before, .img-infografica-b.color-primario .img-infografica__item__dot:after, .img-infografica-b.color-primario .img-infografica-b__item__dot:before, .img-infografica-b.color-primario .img-infografica-b__item__dot:after 
+    width: 30px
+    height: 30px
+  
+
 .img-infografica__item__dot:before, .img-infografica__item__dot:after, .img-infografica-b__item__dot:before, .img-infografica-b__item__dot:after 
     opacity: .4
 
 .bgr1-tema3
   background-image: url("../assets/curso/temas/tema3/bgr1.png") 
   background-size: 100% 100%
+
+.pasos-a.color-acento-contenido .pasos-a__circle div 
+    color: #fff
+
+.bloque-texto-recuadro3
+  &::before 
+    background-color: #FFF4E4
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero span 
+    color: #fff
   
 
 

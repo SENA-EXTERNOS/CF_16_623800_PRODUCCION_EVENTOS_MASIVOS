@@ -13,12 +13,12 @@
           .bloque-texto-b__texto
             p Estimado aprendiz, en este componente formativo desarrollará habilidades para identificar la utilidad de los planes de emergencia y contingencia, los cuales se deben evaluar para determinar su efectividad, y a partir de allí, establecer los planes de mejora, que, generalmente, se derivan de procesos de auditoría, revisión por la alta dirección o incumplimientos legales. En esta unidad formativa se identificará cuáles son los mecanismos con los que se puede determinar la efectividad de los planes de emergencia y contingencia. Por otra parte, comprenderá la importancia que tienen los procesos de evaluación para establecer los planes de mejora en la ejecución y control de las emergencias y contingencias.
       
-      .col-lg-4
+      .col-lg-4.mt-3
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema1/img1.svg', alt='Texto que describa la imagen')
 
       .col-lg-4
-        p Los ciclos de mejora continua #[i Deming] reciben este nombre por su autor Edwards #[i Deming], quien fue su principal promotor. También es conocido como el ciclo PHVA, que se utiliza como herramienta para implementar controles, o como su nombre lo indica, acciones de mejora de manera oportuna para favorecer la competitividad de una empresa u organización, y en el caso de esta unidad de estudio, mejoras ante un riesgo; es por ello que se desarrollan a partir de procesos de evaluación y prácticas, donde se pone a prueba la capacidad de respuesta de una organización.  El ciclo PHVA, de acuerdo con lo estipulado por la norma (Instituto Colombiano de Normas Técnicas, 2015), puede describirse brevemente como:
+        p.mt-3 Los ciclos de mejora continua #[i Deming] reciben este nombre por su autor Edwards #[i Deming], quien fue su principal promotor. También es conocido como el ciclo PHVA, que se utiliza como herramienta para implementar controles, o como su nombre lo indica, acciones de mejora de manera oportuna para favorecer la competitividad de una empresa u organización, y en el caso de esta unidad de estudio, mejoras ante un riesgo; es por ello que se desarrollan a partir de procesos de evaluación y prácticas, donde se pone a prueba la capacidad de respuesta de una organización.  El ciclo PHVA, de acuerdo con lo estipulado por la norma (Instituto Colombiano de Normas Técnicas, 2015), puede describirse brevemente como:
 
     .row.mt-5
       p Ciclo de mejoramiento continuo de #[i Deming]
@@ -157,7 +157,7 @@
       p Una vez revisados los conceptos, ahora se estudia paso a paso la creación de un plan de mejora. Es importante el desarrollo de cada uno de los siguientes aspectos para lograr el cumplimiento de los objetivos propuestos, con el fin de garantizar la satisfacción del cliente y el cumplimiento legal:    
 
 
-    PasosA.color-acento-contenido.mb-5(tipo="1")
+    PasosA.color-acento-contenido.mb-5(tipo="l")
       .row.justify-content-justify.align-items-center
         .col-md-9.mb-4.mb-md-0
           h3 Identificación de problema
@@ -196,7 +196,7 @@
 
         p.time-line-rediect.mt-3 Para poder entender cada una de estas metodologías, a continuación, una breve explicación:
         
-        .bloque-texto-b.bloque-texto-recuadro2.p-4.mt-3.bloque-texto-width1.time-line-rediect
+        .bloque-texto-b.bloque-texto-recuadro3.p-4.mt-3.bloque-texto-width1.time-line-rediect
           .bloque-texto-b__texto
             p #[b Lluvia de ideas:] es un método creado por Alex Faickney Osborn (1939), cuyo objetivo es tener en cuenta las opiniones de los participantes en el desarrollo de una actividad específica, con vistas a definir las conclusiones que lleven a implementar mejoras. La forma de desarrollar el ejercicio es, primero, reunir a quienes participarán, se sugiere que sea personal que domine el tema; una vez que se tenga definido el grupo de trabajo, se procede a que cada participante escriba o manifieste lo que piensa; siempre una persona debe moderar la actividad para que sea provechosa, no se pierda el fin de esta y realmente se puedan establecer las causas que se están definiendo. Por ejemplo, en una reunión que busca definir cómo prevenir la ocurrencia de incendios, se grafica la prevención a través de un mapa mental de esta manera:
 
@@ -211,7 +211,7 @@
               p(data-aos="fade-down") Una vez escuchadas las opiniones, se definen las causas y se recomienda priorizar para establecer los planes de mejora conforme a la necesidad identificada. Es importante recordar que si son acciones derivadas de la ocurrencia de un evento, son correctivas, si, por el contrario, se establecen por una lista de chequeo o antes del desarrollo de una actividad, son preventivas. 
 
 
-        .bloque-texto-b.bloque-texto-recuadro2.p-4.mt-3.bloque-texto-width1.time-line-rediect
+        .bloque-texto-b.bloque-texto-recuadro3.p-4.mt-3.bloque-texto-width1.time-line-rediect
           .bloque-texto-b__texto
             p #[b Árbol de causas:] es un método que permite relacionar causas con un suceso principal, se tienen causas básicas, que son aquellas que están en un suceso, son reales y se manifiestan como un síntoma que desencadena las causas inmediatas, las cuales son aquellas situaciones que se presentan justo antes de la ocurrencia de la situación; para facilitar la comprensión de la metodología, es preciso revisar el siguiente ejemplo, en el que se quiere identificar las causas del no funcionamiento de un sistema de alarma de emergencia: 
 
