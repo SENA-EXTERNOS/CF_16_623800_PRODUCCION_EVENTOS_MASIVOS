@@ -11,8 +11,8 @@
       .col-lg-4
         .bloque-texto-b.bloque-texto-recuadro2.p-4.mt-3.bloque-texto-width1
           .bloque-texto-b__texto
-            p Estimado aprendiz, en este componente formativo desarrollará habilidades para identificar la utilidad de los planes de emergencia y contingencia, los cuales se deben evaluar para determinar su efectividad, y a partir de allí, establecer los planes de mejora, que, generalmente, se derivan de procesos de auditoría, revisión por la alta dirección o incumplimientos legales. En esta unidad formativa se identificará cuáles son los mecanismos con los que se puede determinar la efectividad de los planes de emergencia y contingencia. Por otra parte, comprenderá la importancia que tienen los procesos de evaluación para establecer los planes de mejora en la ejecución y control de las emergencias y contingencias.
-      
+            p Para iniciar la temática, es importante definir qué es la mejora continua, teniendo en cuenta que es el concepto que corresponde al desarrollo de este contenido. La mejora continua no es exclusiva para las actividades económicas de cadenas de producción, sino lo contrario: es una estrategia que aplica para cualquier tipo de actividad económica, teniendo en cuenta que es la forma en la cual la organización busca realizar procesos o actividades más eficientes, con menos recursos, optimizando tiempos y evitando reprocesos.
+            
       .col-lg-4.mt-3
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema1/img1.svg', alt='Texto que describa la imagen')
