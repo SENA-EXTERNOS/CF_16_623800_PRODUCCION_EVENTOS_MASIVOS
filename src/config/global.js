@@ -48,14 +48,6 @@ export default {
         numero: '1',
         titulo: 'Ciclo de mejoramiento continuo de Deming ',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: ' Concepto y proceso, herramientas y metodología',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
@@ -64,14 +56,6 @@ export default {
         numero: '2',
         titulo: 'Plan de mejora y acciones de mejora',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Concepto, componentes, clasificación y metodología',
-            hash: 't_2_1',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -80,15 +64,6 @@ export default {
         titulo:
           'Evaluación de resultados del plan de emergencias y contingencias',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo:
-              'Concepto, componentes, lista de chequeo, criterios de evaluación y metodología',
-            hash: 't_3_1',
-          },
-        ],
       },
     ],
     subMenu: [

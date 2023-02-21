@@ -19,10 +19,6 @@
 
     separador
 
-    #t_3_1
-
-    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 3.1 Concepto, componentes, lista de chequeo, criterios de evaluación y metodología
 
     .row.justify-content-center.align-items-center.mb-5.mt-5          
       .col-lg-12(data-aos="fade-left")     
@@ -85,7 +81,7 @@
       .col-lg-4
         p #[b Criterios de evaluación]
 
-        p Cada organización es autónoma de definir el criterio para establecer los rangos de cumplimiento de acuerdo con la necesidad y características propias del evento. Los criterios de evaluación dependerán del instrumento utilizado, se sugiere que estos queden definidos y documentados en un procedimiento donde se establezcan las medidas de evaluación, la frecuencia y los criterios para determinar los cumplimientos.
+        p Cada organización es autónoma de definir el criterio para establecer los rangos de cumplimiento, de acuerdo con la necesidad y características propias del evento. Los criterios de evaluación dependerán del instrumento utilizado, se sugiere que estos queden definidos y documentados en un procedimiento donde se establezcan las medidas de evaluación, la frecuencia y los criterios para determinar los cumplimientos.
 
       .col-lg-4
         figure(data-aos="zoom-in")

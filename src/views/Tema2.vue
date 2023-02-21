@@ -9,7 +9,7 @@
 
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-4
-        p El plan de mejora es fundamental, ya que la identificación oportuna de situaciones de riesgo que puedan afectar la integridad de las personas y de los bienes es responsabilidad del o de los organizadores del evento, con el fin de establecer medidas preventivas. Es importante resaltar que en la mayoría de las organizaciones estos planes surgen a partir de procesos de auditoría interna o externa, en las cuales, por incumplimientos de requisitos legales, se establecen lineamientos de obligatorio cumplimiento.
+        p El plan de mejora es fundamental, ya que la identificación oportuna de situaciones de riesgo que puedan afectar la integridad de las personas y de los bienes y que es responsabilidad del o de los organizadores del evento, se hace con el fin de establecer medidas preventivas. Es importante resaltar que en la mayoría de las organizaciones estos planes surgen a partir de procesos de auditoría interna o externa, en las cuales, por incumplimientos de requisitos legales, se establecen lineamientos de obligatorio cumplimiento.
 
       .col-lg-4
         figure(data-aos="zoom-in")
@@ -25,10 +25,7 @@
 
     separador
 
-    #t_2_1
-
-    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 2.1 Concepto, componentes, clasificación y metodología
+    h3.mt-5(data-aos="zoom-in-left") Estructura y metodología de un plan de mejora
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
@@ -85,16 +82,17 @@
             .cajonAmarillo.bgr-tarjeta2-tema1.p-4.mt-3
               p(data-aos="fade-down") Este plan de mejora deberá ser congruente con las necesidades identificadas y las falencias que llevaron a su desarrollo, así mismo, se deberá socializar con las partes interesadas para que sea conocido y aplicado, designando las responsabilidades a quien o quienes corresponda para garantizar su efectividad. A continuación, se presenta la estructura y comprensión que debe documentarse en los planes de mejora:
 
-    .row.mt-3
-      p Estructura para la documentación y comprensión de los planes de mejora:
+    .row.mt-5
+      h3 Documentación de los planes de mejora
+      p.mb-5 A continuación, se presenta la estructura para la documentación y comprensión de los planes de mejora:
 
     .bg--img_03
-      .row.justify-content-center.mb-4
+      .row.justify-content-center
         .col-lg-8
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
             .row(titulo="Objetivo:")
               .col-12
-                p.mb-0 Definir la finalidad, debe ser medible, alcanzable, con un plazo definido.
+                p.mb-0 Definir la finalidad. Debe ser medible, alcanzable, con un plazo definido.
 
             .row(titulo="Actividades:")
               .col-12
@@ -117,7 +115,7 @@
             img(src="@/assets/curso/temas/tema2/img8.svg", alt="alt").img400.m-auto
 
     .row.mt-5
-      p Para apropiarse mejor de la anterior estructura sobre cómo documentar adecuadamente y comprender un plan de mejora, se presenta el siguiente ejemplo: 
+      p Para apropiarse mejor de la anterior estructura sobre cómo documentar adecuadamente y comprender un plan de mejora, se presenta el siguiente ejemplo de su aplicación para el equipo de brigadista de una empresa:
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
@@ -130,12 +128,13 @@
           p(data-aos="fade-down") Se sugiere que los planes de mejora lleven consignada fecha y estado de seguimiento, con palabras como ‘cumplido’ y ‘no cumplido’.  Esto hace parte de la implementación del plan de mejora y el seguimiento que se le debe hacer para verificar su cumplimiento. La forma objetiva de medir la adherencia es a través del consolidado de los indicadores e informes que el encargado o los encargados de este generen.
 
     .row.justify-content-around.align-items-center.mt-5
+      h3.mb-4 Acciones de mejora
       .col-lg-4
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema2/img10.svg', alt='Texto que describa la imagen')
 
       .col-lg-8.mt-3
-        p Las acciones de mejora para el caso de los eventos surgen de procesos de auditoría, cuando se evidencian falencias en un proceso o cambios en las condiciones o lugar en el que se va a desarrollar, y se subdividen en dos tipos:
+        p Las acciones de mejora para el caso de los eventos surgen de procesos de auditoría, cuando se evidencian falencias en un proceso o cambios en las condiciones o lugar en el que se va a desarrollar y se dividen en dos tipos:
 
         ul.lista-ul--color
           li 
@@ -173,7 +172,7 @@
           img(src='@/assets/curso/temas/tema2/img11.svg', alt='Texto que describa la imagen')
 
     .row.mt-5
-      p De acuerdo con los pasos anteriores, a manera de ejemplo, es oportuno revisar la siguiente situación: en un evento tipo concierto donde se presentó el colapso de la torre de sonido, se da inicio al proceso de evacuación. 
+      p De acuerdo con los pasos anteriores, revisemos su aplicación en una situación con el siguiente ejemplo: en un evento tipo concierto donde se presentó el colapso de la torre de sonido, se da inicio al proceso de evacuación.
 
       p A continuación, el paso a paso para resolver dicha situación:
 

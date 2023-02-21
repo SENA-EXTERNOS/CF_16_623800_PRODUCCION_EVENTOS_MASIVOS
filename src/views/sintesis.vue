@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p La evaluación de los planes de emergencia permite de manera autónoma determinar el cumplimiento de requisitos mínimos. Es importante la realización de este ejercicio, no solo para determinar los planes de mejora, sino además para que, de una manera real, se pueda intervenir el riesgo de manera preventiva; es por ello que el ejercicio se debe desarrollar imparcial y objetivamente.
+    p El siguiente mapa integra los conceptos más relevantes de la información expresada en el presente componente formativo.
     
     .row.justify-content-center
       .col-lg-10.mb-5

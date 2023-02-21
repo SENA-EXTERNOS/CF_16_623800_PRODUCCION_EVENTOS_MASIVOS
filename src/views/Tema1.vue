@@ -11,14 +11,14 @@
       .col-lg-4
         .bloque-texto-b.bloque-texto-recuadro2.p-4.mt-3.bloque-texto-width1
           .bloque-texto-b__texto
-            p Para iniciar la temática, es importante definir qué es la mejora continua, teniendo en cuenta que es el concepto que corresponde al desarrollo de este contenido. La mejora continua no es exclusiva para las actividades económicas de cadenas de producción, sino lo contrario: es una estrategia que aplica para cualquier tipo de actividad económica, teniendo en cuenta que es la forma en la cual la organización busca realizar procesos o actividades más eficientes, con menos recursos, optimizando tiempos y evitando reprocesos.
+            p ¿Qué es la mejora continua de Deming?  Es una estrategia que se aplica para cualquier tipo de actividad económica, no es exclusiva para las actividades económicas de cadenas de producción, sino lo contrario, es la forma en la cual la organización busca realizar procesos o actividades más eficientes, con menos recursos, optimizando tiempo y evitando reprocesos.
             
       .col-lg-4.mt-3
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema1/img1.svg', alt='Texto que describa la imagen')
 
       .col-lg-4
-        p.mt-3 Los ciclos de mejora continua #[i Deming] reciben este nombre por su autor Edwards #[i Deming], quien fue su principal promotor. También es conocido como el ciclo PHVA, que se utiliza como herramienta para implementar controles, o como su nombre lo indica, acciones de mejora de manera oportuna para favorecer la competitividad de una empresa u organización, y en el caso de esta unidad de estudio, mejoras ante un riesgo; es por ello que se desarrollan a partir de procesos de evaluación y prácticas, donde se pone a prueba la capacidad de respuesta de una organización.  El ciclo PHVA, de acuerdo con lo estipulado por la norma (Instituto Colombiano de Normas Técnicas, 2015), puede describirse brevemente como:
+        p.mt-3 Los ciclos de mejora continua Deming reciben este nombre por su autor Edwards Deming, quien fue su principal promotor. También es conocido como el ciclo PHVA (siglas de planificar, hacer, verificar y actuar), que se utiliza como herramienta para implementar controles, o como su nombre lo indica, acciones de mejora de manera oportuna, para favorecer la competitividad de una empresa u organización, y, en este caso, de mejoras ante un riesgo; es por ello que se desarrollan a partir de procesos de evaluación y prácticas, donde se pone a prueba la capacidad de respuesta de una organización.  El ciclo PHVA, de acuerdo con lo estipulado por la norma (Instituto Colombiano de Normas Técnicas, 2015), puede describirse brevemente como:
 
     .row.mt-5
       p Ciclo de mejoramiento continuo de #[i Deming]
@@ -67,6 +67,7 @@
               p Tomar acciones para mejorar el desempeño cuando sea necesario.
 
     .row.mt-5
+      h3 Ejemplo de aplicación del ciclo
       .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mt-5
         .bloque-texto-g__img.bloque-texto-g__img2(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img7.png')})`}"
@@ -141,11 +142,7 @@
 
 
     separador
-
-    #t_1_1
-
-    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 1.1 Concepto y proceso, herramientas y metodología
+    h3.mt-5(data-aos="zoom-in-left") Herramientas y metodología de la mejora continua
 
     .row.justify-content-justify.align-items-center.mt-5.bgr1-tema1
       .col-lg-8.p-4
@@ -154,7 +151,8 @@
         p De acuerdo a la definición anterior, la mejora es un mecanismo que permite a una empresa, de cualquier actividad económica, identificar las falencias en los procesos o procedimientos a través de la aplicación de herramientas que sean adecuadas y que, a su vez, logren contextualizar la causa raíz del problema, para que, a partir de esta, se diseñen y ejecuten las actividades que sean acordes a las necesidades reales identificadas.
 
     .row.mt-5
-      p Una vez revisados los conceptos, ahora se estudia paso a paso la creación de un plan de mejora. Es importante el desarrollo de cada uno de los siguientes aspectos para lograr el cumplimiento de los objetivos propuestos, con el fin de garantizar la satisfacción del cliente y el cumplimiento legal:    
+      h3 Elementos para la creación de un plan de mejora
+      p Veamos cómo se desarrolla paso a paso la creación de un plan de mejora, es importante el seguimiento de cada uno de los siguientes aspectos para lograr el cumplimiento de los objetivos propuestos, con el fin de garantizar la satisfacción del cliente y el cumplimiento legal:
 
 
     PasosA.color-acento-contenido.mb-5(tipo="l")
@@ -194,30 +192,30 @@
           h3 Identificar y analizar las causas
           p Para la identificación del problema, se sugiere la aplicación de una lluvia de ideas o un árbol de causas, los cuales son metodologías que en su estructura permiten definir las consecuencias y las causas que desencadenaron el problema, facilitando un análisis objetivo que debe ser congruente con la situación real que se está evaluando.
 
-        p.time-line-rediect.mt-3 Para poder entender cada una de estas metodologías, a continuación, una breve explicación:
+        p.time-line-rediect.mt-3 Para entender cada una de estas metodologías, se presenta esta breve explicación:
         
         .bloque-texto-b.bloque-texto-recuadro3.p-4.mt-3.bloque-texto-width1.time-line-rediect
           .bloque-texto-b__texto
             p #[b Lluvia de ideas:] es un método creado por Alex Faickney Osborn (1939), cuyo objetivo es tener en cuenta las opiniones de los participantes en el desarrollo de una actividad específica, con vistas a definir las conclusiones que lleven a implementar mejoras. La forma de desarrollar el ejercicio es, primero, reunir a quienes participarán, se sugiere que sea personal que domine el tema; una vez que se tenga definido el grupo de trabajo, se procede a que cada participante escriba o manifieste lo que piensa; siempre una persona debe moderar la actividad para que sea provechosa, no se pierda el fin de esta y realmente se puedan establecer las causas que se están definiendo. Por ejemplo, en una reunión que busca definir cómo prevenir la ocurrencia de incendios, se grafica la prevención a través de un mapa mental de esta manera:
 
         .row.justify-content-center.align-items-center.mt-3
-          .col-md-8
+          .col-md-10
             figure
               img(src='@/assets/curso/temas/tema1/img18.svg', alt='Texto que describa la imagen')
 
         .row.justify-content-around.align-items-center.time-line-rediect.mt-3
           .col-lg-12
             .cajonAmarillo.bgr-tarjeta2-tema1.p-4.mt-3
-              p(data-aos="fade-down") Una vez escuchadas las opiniones, se definen las causas y se recomienda priorizar para establecer los planes de mejora conforme a la necesidad identificada. Es importante recordar que si son acciones derivadas de la ocurrencia de un evento, son correctivas, si, por el contrario, se establecen por una lista de chequeo o antes del desarrollo de una actividad, son preventivas. 
+              p(data-aos="fade-down") Una vez escuchadas las opiniones, se definen las causas; se recomienda priorizar para establecer los planes de mejora conforme a la necesidad identificada. Es importante recordar que, si son acciones derivadas de la ocurrencia de un evento, son correctivas, si, por el contrario, se establecen por una lista de chequeo o antes del desarrollo de una actividad, son preventivas.
 
 
         .bloque-texto-b.bloque-texto-recuadro3.p-4.mt-3.bloque-texto-width1.time-line-rediect
           .bloque-texto-b__texto
-            p #[b Árbol de causas:] es un método que permite relacionar causas con un suceso principal, se tienen causas básicas, que son aquellas que están en un suceso, son reales y se manifiestan como un síntoma que desencadena las causas inmediatas, las cuales son aquellas situaciones que se presentan justo antes de la ocurrencia de la situación; para facilitar la comprensión de la metodología, es preciso revisar el siguiente ejemplo, en el que se quiere identificar las causas del no funcionamiento de un sistema de alarma de emergencia: 
+            p #[b Árbol de causas]: es un método que permite relacionar causas con un suceso principal. Se tienen causas básicas, que son aquellas que están en un suceso, son reales y se manifiestan como un síntoma que desencadena las causas inmediatas, las cuales son aquellas situaciones que se presentan justo antes de la ocurrencia de la situación; para facilitar la comprensión de la metodología, es preciso revisar el siguiente ejemplo, en el que se quiere identificar las causas del no funcionamiento de un sistema de alarma de emergencia:
 
 
         .row.justify-content-center.align-items-center.mt-3
-          .col-md-8
+          .col-md-10
             figure
               img(src='@/assets/curso/temas/tema1/img19.svg', alt='Texto que describa la imagen')
 
@@ -238,6 +236,7 @@
 
 
     .row.mt-5
+      h3 Ejemplo de aplicación del plan de mejora
       .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mt-5
         .bloque-texto-g__img.bloque-texto-g__img2(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img21.png')})`}"
@@ -264,8 +263,8 @@
 
             .row.justify-content-center(titulo="Paso 2").pt-3
               .col-lg-7.mb-4.mb-lg-0
-                h5 Prioriza
-                p Intervenir las vías de evacuación.
+                h5 Priorización
+                p Se debe priorizar en intervenir las vías de evacuación.
 
               .col-lg-4.col-xs-6
                 figure
@@ -291,12 +290,12 @@
                   img(src='@/assets/curso/temas/tema1/img25.png', alt='')
 
             .row.justify-content-center(titulo="Paso 5").pt-3
-              .col-lg-7.mb-4.mb-lg-0
+              .col-lg-6.mb-4.mb-lg-0
                 h5 Plan de mejora 
                 p Aplicando el ciclo PHVA, se estructura el plan de mejora para controlar los aspectos negativos identificados.
                 p De acuerdo con esto, se puede evidenciar que el plan de mejora se documenta para la situación que genera mayores efectos negativos sobre las personas, por esto se priorizan las vías de evacuación. Cabe resaltar que los demás aspectos también se deben contemplar y controlar, porque en emergencias todo es importante para prevenir daños a terceros.
 
-              .col-lg-4.col-xs-6
+              .col-lg-6.col-xs-6
                 figure
                   img(src='@/assets/curso/temas/tema1/img26.png', alt='')
 
