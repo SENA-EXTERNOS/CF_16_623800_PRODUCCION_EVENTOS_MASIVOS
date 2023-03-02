@@ -110,18 +110,10 @@ export default {
     {
       tema: 'Evaluación plan de emergencias',
       referencia:
-        'Fondo de Prevención y Atención de Desastres- FOPAE (2012). <em>Guía para elaborar planes de emergencia y contingencia</em>. Pág. 63-64.',
+        'Fondo de Prevención y Atención de Desastres- FOPAE (2012). <em>Guía para elaborar planes de emergencia y contingencia</em>.',
       tipo: 'Artículo',
       link:
         'https://implementandosgi.com/wp-content/uploads/2018/08/Guia-Planes-Emergencia-FOPAE.pdf',
-    },
-    {
-      tema: 'Mejora continua',
-      referencia:
-        'ISO 9001 Norma Técnica Colombiana (2015). <em>Sistemas de Gestión de la Calidad. Requisitos.</em> ',
-      tipo: 'Norma ',
-      link:
-        'https://colaboracion.dnp.gov.co/CDT/Normograma/NORMA%20ISO%209001%202015.pdf',
     },
     {
       tema: 'Plan de mejora',
@@ -134,7 +126,7 @@ export default {
     {
       tema: 'Protocolo de activación del plan de emergencias y contingencias',
       referencia:
-        'Fondo de Prevención y Atención de Desastres- FOPAE (2014). <em>Guía para el desarrollo de simulaciones.</em>',
+        'Fondo de Prevención y Atención de Desastres- FOPAE (2014). <em>Guía para el desarrollo de simulaciones</em>.',
       tipo: 'Guía ',
       link:
         'https://www.sire.gov.co/documents/82884/85386/ANEXO+10+-+GUIA+DESARROLLO+SIMULACIONES.pdf/518cc905-189c-4cbb-931e-667340fe32d0',
@@ -157,7 +149,7 @@ export default {
         'es una evaluación que un individuo realiza de sí mismo o de una cuestión propia. Evaluar implica calcular, detectar o indicar el valor de algo.',
     },
     {
-      termino: 'Ciclo <em>Deming</em> ',
+      termino: 'Ciclo Deming',
       significado:
         'es un sistema que se utiliza en las empresas para lograr un proceso de mejora continua.',
     },
@@ -196,7 +188,7 @@ export default {
     {
       referencia:
         'Betancourt, D. F. (2016). <em>La lista de chequeo en calidad: Qué es y cómo se hace</em>. Recuperado el 17 de octubre de 2022, de Ingenio Empresa:',
-      link: 'www.ingenioempresa.com/lista-de-chequeo',
+      link: 'https://www.ingenioempresa.com/lista-de-chequeo',
     },
     {
       referencia:
@@ -206,19 +198,18 @@ export default {
     },
     {
       referencia:
-        'Instituto Uruguayo de Normas Técnicas (2009). <em>Herramientas para la mejora de la calidad</em>. Wordprees.com ',
+        'Instituto Uruguayo de Normas Técnicas (2009). <em>Herramientas para la mejora de la calidad</em>. Wordprees.com',
       link:
         'https://qualitasbiblo.files.wordpress.com/2013/01/libro-herramientas-para-la-mejora-de-la-calidad-curso-unit.pdf',
     },
     {
       referencia:
-        'ISO 9001 Norma Técnica Colombiana (2015). <em>Sistemas de Gestión de la Calidad. Requisitos</em>',
-      link:
-        'https://colaboracion.dnp.gov.co/CDT/Normograma/NORMA%20ISO%209001%202015.pdf',
+        'ISO 9001 Norma Técnica Colombiana (2015). <em>Sistemas de Gestión de la Calidad. Requisitos.</em>',
+      link: '',
     },
     {
       referencia:
-        'Pérez Porto, J.  y Gardey, A. (2020). <em>Definición de Autoevaluación.</em>',
+        'Pérez Porto, J.  y Gardey, A. (2020). <em>Definición de Autoevaluación</em>.',
       link: 'https://definicion.de/autoevaluacion/',
     },
     {
@@ -228,9 +219,8 @@ export default {
     },
     {
       referencia:
-        'Unidad Nacional de Gestión del riesgo de desastres, (2016). <em>Guía metodológica para el desarrollo de simulaciones y simulacros.</em>',
-      link:
-        'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/18505/VOL-6-GUIA-METODOLOGICA-SIMULACROS-Y-SIMULACIONES.pdf;jsessionid=71D9B75863C06A238923B016D6E1CDB1?sequence=15#:~:text=Los%20simulacros%20son%20ejercicios%20pr%C3%A1cticos,de%20Respuesta%20y%20sus%20protocolos',
+        'Unidad Nacional de Gestión del riesgo de desastres, (2016). <em>Guía metodológica para el desarrollo de simulaciones y simulacros</em>.',
+      link: '',
     },
   ],
   creditos: {

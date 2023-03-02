@@ -80,7 +80,7 @@
     .row.justify-content-around.align-items-center.mt-3
           .col-lg-10
             .cajonAmarillo.bgr-tarjeta2-tema1.p-4.mt-3
-              p(data-aos="fade-down") Este plan de mejora deberá ser congruente con las necesidades identificadas y las falencias que llevaron a su desarrollo, así mismo, se deberá socializar con las partes interesadas para que sea conocido y aplicado, designando las responsabilidades a quien o quienes corresponda para garantizar su efectividad. A continuación, se presenta la estructura y comprensión que debe documentarse en los planes de mejora:
+              p(data-aos="fade-down") Este plan de mejora deberá ser congruente con las necesidades identificadas y las falencias que llevaron a su desarrollo, así mismo, se deberá socializar con las partes interesadas para que sea conocido y aplicado, designando las responsabilidades a quien o quienes corresponda para garantizar su efectividad.
 
     .row.mt-5
       h3 Documentación de los planes de mejora
@@ -90,23 +90,23 @@
       .row.justify-content-center
         .col-lg-8
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
-            .row(titulo="Objetivo:")
+            .row(titulo="Objetivo")
               .col-12
                 p.mb-0 Definir la finalidad. Debe ser medible, alcanzable, con un plazo definido.
 
-            .row(titulo="Actividades:")
+            .row(titulo="Actividades")
               .col-12
                 p.mb-0 Se define qué se hace o cómo se cumple con el objetivo planteado. 
 
-            .row(titulo="Responsables:")
+            .row(titulo="Responsables")
               .col-12
                 p.mb-0 Establecer quién es el encargado de las actividades, puede ser por áreas o por cargos específicos. 
 
-            .row(titulo="Recursos:")
+            .row(titulo="Recursos")
               .col-12
                 p.mb-0 Listar los recursos físicos, de talento humano y financieros que se requieran para el cumplimiento de las actividades planeadas y los objetivos.
 
-            .row(titulo="Indicadores:")
+            .row(titulo="Indicadores")
               .col-12
                 p.mb-0 Estructurar el indicador que permita medir el cumplimiento de los objetivos planteados. 
 
