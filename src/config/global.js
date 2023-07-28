@@ -181,7 +181,7 @@ export default {
     {
       termino: 'Simulacro',
       significado:
-        'son ejercicios prácticos que representan una situación de emergencia cercana a la realidad, basados siempre en el análisis del riesgo municipal; en consecuencia, una simulación es una forma de poner a prueba la Estrategia Municipal de Respuesta y sus protocolos. Este tipo de ejercicio amerita una gran movilización de recursos (personal, equipos, entidades, etc.), por lo que su desarrollo es más complejo y costoso que una simulación; durante la planeación del simulacro se debe velar por que exista coherencia con la cotidianidad municipal y que el ejercicio se encuentre en contexto.',
+        'son ejercicios prácticos que representan una situación de emergencia cercana a la realidad, basados siempre en el análisis del riesgo municipal; en consecuencia, una simulación es una forma de poner a prueba la Estrategia Municipal de Respuesta y sus protocolos. Este tipo de ejercicio amerita una gran movilización de recursos (personal, equipos, entidades, etc.), por lo que su desarrollo es más complejo y costoso que una simulación; durante la planeación del simulacro se debe velar porque exista coherencia con la cotidianidad municipal y que el ejercicio se encuentre en contexto.',
     },
   ],
   referencias: [
@@ -205,7 +205,8 @@ export default {
     {
       referencia:
         'ISO 9001 Norma Técnica Colombiana (2015). <em>Sistemas de Gestión de la Calidad. Requisitos.</em>',
-      link: '',
+      link:
+        'https://intranet.secretariajuridica.gov.co/sites/default/files/intranet_formatos/NTC_ISO_9001_2015.pdf',
     },
     {
       referencia:
@@ -215,12 +216,14 @@ export default {
     {
       referencia:
         'Orellana Nirian, P. (2020) <em>Proceso de mejora continua</em>. Economipedia.com',
-      link: '',
+      link:
+        'https://economipedia.com/definiciones/proceso-de-mejora-continua.html',
     },
     {
       referencia:
         'Unidad Nacional de Gestión del riesgo de desastres, (2016). <em>Guía metodológica para el desarrollo de simulaciones y simulacros</em>.',
-      link: '',
+      link:
+        'https://r.search.yahoo.com/_ylt=AwrFahsfqsBknTgISWGrcgx.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1690376863/RO=10/RU=https%3a%2f%2fwww.cali.gov.co%2floader.php%3flServicio%3dTools2%26lTipo%3ddescargas%26lFuncion%3ddescargar%26idFile%3d46905/RK=2/RS=pp8hUlErIc1cu6FVA.hBjrlf1k0-',
     },
   ],
   creditos: {

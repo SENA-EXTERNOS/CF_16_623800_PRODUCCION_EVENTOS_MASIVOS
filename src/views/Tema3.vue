@@ -38,10 +38,10 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 DOC - Anexo 1
+                  h3.mb-1 PDF - Anexo 1
                   p.text-small Listas de chequeo
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/ANEXO_1_Listas_chequeo.docx')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/ANEXO_1_Listas_chequeo.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download  
 
@@ -54,10 +54,10 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 DOC - Anexo 2
+                  h3.mb-1 PDF - Anexo 2
                   p.text-small Formato de guion simulacros e instrumentos de evaluación
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/ANEXO_2_Simulacros.docx')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/ANEXO_2_Simulacros.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download         
 
