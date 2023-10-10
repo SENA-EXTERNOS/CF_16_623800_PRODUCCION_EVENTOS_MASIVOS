@@ -46,7 +46,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Ciclo de mejoramiento continuo de Deming ',
+        titulo: 'Ciclo de mejoramiento continuo de <i>Deming</i>',
         desarrolloContenidos: true,
       },
 

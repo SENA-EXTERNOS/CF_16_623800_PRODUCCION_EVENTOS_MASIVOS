@@ -138,6 +138,9 @@
           .bloque-texto-b__texto
             p Con el desarrollo de estos procesos se identifica oportunamente la pertinencia del  mismo, adherencia, conocimiento y cumplimiento  por parte de los integrantes del comité de emergencia a los procedimientos operativos normalizados, la coordinación y tiempos de respuesta  con entidades de ayuda externa y la definición de planes de mejora, recordando que una organización que tenga trazada la calidad en sus servicios contempla todos los aspectos y garantiza los recursos necesarios para la implementación de estas acciones, siempre en procura de la competitividad para las empresas.
 
+    .row.justify-content-center.align-items-center.mt-5
+      p Para un estudio completo del tema, recuerde explorar todos los recursos que se encuentran disponibles en este componente formativo, y que encuentra en el menú principal, tales como material complementario, actividad didáctica, glosario, entre otros.
+
 </template>
 
 <script>

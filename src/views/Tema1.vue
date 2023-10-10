@@ -5,23 +5,23 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Ciclo de mejoramiento continuo de Deming
+      h1 Ciclo de mejoramiento continuo de <i>Deming</i>
 
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-4
         .bloque-texto-b.bloque-texto-recuadro2.p-4.mt-3.bloque-texto-width1
           .bloque-texto-b__texto
-            p #[b ¿Qué es la mejora continua de Deming?]  Es una estrategia que se aplica para cualquier tipo de actividad económica, no es exclusiva para las actividades económicas de cadenas de producción, sino lo contrario, es la forma en la cual la organización busca realizar procesos o actividades más eficientes, con menos recursos, optimizando tiempo y evitando reprocesos.
+            p <b>¿Qué es la mejora continua de <em>Deming</em>?</b>  Es una estrategia que se aplica para cualquier tipo de actividad económica, no es exclusiva para las actividades económicas de cadenas de producción, sino lo contrario, es la forma en la cual la organización busca realizar procesos o actividades más eficientes, con menos recursos, optimizando tiempo y evitando reprocesos.
             
       .col-lg-4.mt-3
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema1/img1.svg', alt='Texto que describa la imagen')
 
       .col-lg-4
-        p.mt-3 Los ciclos de mejora continua Deming reciben este nombre por su autor Edwards Deming, quien fue su principal promotor. También es conocido como el ciclo PHVA (siglas de planificar, hacer, verificar y actuar), que se utiliza como herramienta para implementar controles, o como su nombre lo indica, acciones de mejora de manera oportuna, para favorecer la competitividad de una empresa u organización, y, en este caso, de mejoras ante un riesgo; es por ello que se desarrollan a partir de procesos de evaluación y prácticas, donde se pone a prueba la capacidad de respuesta de una organización.  El ciclo PHVA, de acuerdo con lo estipulado por la norma (Instituto Colombiano de Normas Técnicas, 2015), puede describirse brevemente como:
+        p.mt-3 Los ciclos de mejora continua <i>Deming</i> reciben este nombre por su autor Edwards <i>Deming</i>, quien fue su principal promotor. También es conocido como el ciclo PHVA (siglas de planificar, hacer, verificar y actuar), que se utiliza como herramienta para implementar controles, o como su nombre lo indica, acciones de mejora de manera oportuna, para favorecer la competitividad de una empresa u organización, y, en este caso, de mejoras ante un riesgo; es por ello que se desarrollan a partir de procesos de evaluación y prácticas, donde se pone a prueba la capacidad de respuesta de una organización.  El ciclo PHVA, de acuerdo con lo estipulado por la norma (Instituto Colombiano de Normas Técnicas, 2015), puede describirse brevemente como:
 
     .row.mt-5
-      p Ciclo de mejoramiento continuo de Deming
+      p Ciclo de mejoramiento continuo de <i>Deming</i>
 
     .row.justify-content-center.mb-5.mt-5
       .col-lg-9.position-relative
